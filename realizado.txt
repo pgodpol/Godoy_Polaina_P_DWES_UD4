@@ -1,0 +1,54 @@
+EXPLICACIONES SOBRE LA REALIZACIÓN DEL EJERCICIO
+
+El ejercicio está realizado en dos directorios distintos:
+   -god_pol_p_poo: dedidado a la actividad 1 de POO
+   -god_pol_p_laravel: dedicado al resto de actividades sobre god_pol_p_laravel
+   
+Acompañan los archivos:
+  - Godoy_Polaina_Pedro_DWES04.pdf que contiene las explicaciones detalladas de realización 
+  - alwaysdata.txt que contiene las direcciones para ejecutar los ejercicios en alwaysdata
+  - realizado.txt donde se explica la estructura de archivos realizada
+  
+
+PRUEBAS EN SERVIDOR DE INTERNET
+ - https://pgodpol.alwaysdata.net
+ - https://pgodpol.alwaysdata.net/god_pol_p_poo/
+ - https://pgodpol.alwaysdata.net/god_pol_p_laravel/public/
+
+ 
+
+NOTAS SOBRE LOS EJERCICIOS REALIZADOS:
+
+No me ha resultado posible realizar la tarea completa. Hubiera sido para mi muy importante terminarla incluso con las tareas complementarias.
+Imposible dedicarle más tiempo del que le he dedicado a este módulo en el último mes. Conocer a fondo Laravel y MVC es una tarea que requiere mucho tiempo y dedicación.
+
+El ejercicio 1:
+Me ocupó mucho tiempo al princio la realización del ejercicio 1 de POO. 
+La parte teórica la he estudiado detenidamente y lo aprendido lo he reflejado en el documento pdf. Los 10 ejercicios prácticos me supusieron tanto aprendizaje como consumo de tiempo total de la tarea.
+El estudio de la orientación a objetos en php me parece que es básico para afrontar el resto del ejercicio, y aunque el peso en nota no supera los 2 puntos en este ejercicio 1, mi intención ha sido completarlo con el máximo de rigor y estudio a costa de ser consciente de que podría no darme tiempo a terminar la tarea al completo. En este momento para mi no es tan importante conseguir puntuación alta en un ejercicio como conseguir afianzar conocimiento.
+
+Actividades de Laravel
+
+Le he dedicado el tiempo necesario para comprender lo mejor posible el teoría que se propone. Me ha resultado imposible completar los tutoriales en vídeo. Pero entiendo que es importante y me lo dejo pendiente de realizar.
+
+Las aplicaciones de los ejercicios 2 en adelante de Laravel, creo que están hechas para aprender de forma progresiva. Por eso según avanzaba hubiera cambiado cosas mal planteadas en los ejercicios. La falta de tiempo me ha hecho que no pueda repasar y mejorar los resultados. Considero que he aprendido de forma razonable lo que se proponía, pero mi realización de ejercicios no ha sido la que me hubiera gustado.
+
+En el ejercicio 4 no he consegudio elimimar un registro concreto de la base de datos. Sin embargo consigo eliminarlo si introduzco el id de forma directa en el método He perdido más tiempo intentando borrar un registro que en hacer todo el ejercicio que he hecho. 
+
+En el ejercicio 5 después de dedicarle muchísimas horas no he consegudio un código ni siquiera funcional para probar resultados. Lo he desechado completo y no lo añado al trabajo.
+
+En el ejercicio 6 he aprendido soluciones que podría haber aplicado al ejercico 3, 4 o 5, pero no hay mas tiempo para volver sobre los ejercicios ya hechos.
+
+Para el ejercicio 7 creo que no es una tarea dificil de realizar y le he dedicado un tiempo al estudio de tutoriales y manuales, pero nuevamente el tiempo del que dispongo ha hecho que no pueda afrontar el ejercicio.
+
+FINALMENTE:
+Tener que empaquetar todo en menos de 100 MB ha hecho que tenga que dedicarle bastante tiempo a estructurar un menú y una disposición de los archivos dentro del
+proyecto de Laravel y del proyecto del ejercicio. Otra vez el tiempo me parece que vuela y no consigo resultados que sean elegantes y dignos de un ejercicio satisfactorio.
+
+
+Mi impresión es que he avanzado mucho en este último mes con php, poo y laravel, pero dudo haber sabido reflejarlo en este ejercicio.
+
+
+alumno:
+Pedro Godoy Polaina
+

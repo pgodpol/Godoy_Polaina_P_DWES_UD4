@@ -1,0 +1,75 @@
+/* Estilos generales */
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: "Segoe UI", "Open Sans", sans-serif;
+    margin: 0 auto;
+    max-width: 80%;
+    padding: 0 1em;
+}
+
+
+/* Estilos del menú */
+.menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #f0f0f0;
+    height: 60px;
+    font-size: 1.3rem;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #333;
+    font-size: 1.3rem;
+}
+
+.centrar{
+    text-align: center;
+}
+
+.menu a:hover {
+    color: #555;
+}
+
+
+
+
+
+
+.boton-formulario {
+  display: inline-block;
+  background-color: #f2f2f2;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+.boton-menu {
+  background-color: #f2f2f2;
+  color: #333;
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 10px;
+  cursor: pointer;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+.boton-menu:hover {
+  background-color: #ddd;
+}

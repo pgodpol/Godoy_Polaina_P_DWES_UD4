@@ -1,0 +1,6 @@
+PRUEBAS EN SERVIDOR DE INTERNET
+ - https://pgodpol.alwaysdata.net
+ - https://pgodpol.alwaysdata.net/god_pol_p_poo/
+ - https://pgodpol.alwaysdata.net/god_pol_p_laravel/public/
+ 
+
